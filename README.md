@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vidya Sai Mounika Jalluri</h1>
 
-<h3 align="center">💡 Full Stack Web Developer | MERN Stack | React | Node.js | Firebase</h3>
+<h3 align="center">💡 Full Stack Web Developer | React | Express | Supabase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&width=680&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;React+%7C+Node.js+%7C+Express+%7C+Firebase;Open+to+Collaborations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&width=680&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;React+%7C+Node.js+%7C+Express+%7C+Firebase+Supabase;" alt="Typing SVG"/>
 </p>
 
 ---
