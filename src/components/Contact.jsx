@@ -60,7 +60,7 @@ const Contact = () => {
 
             {/* GitHub */}
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/jallurividya"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 bg-slate-800 rounded-full shadow-md text-cyan-400
@@ -73,7 +73,7 @@ const Contact = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 bg-slate-800 rounded-full shadow-md text-cyan-400

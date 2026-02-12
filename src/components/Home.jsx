@@ -71,7 +71,7 @@ const Home = () => {
       {/* Social Icons */}
       <div className="flex justify-center gap-6 mt-10">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/jallurividya"
           target="_blank"
           rel="noopener noreferrer"
           className="p-3 bg-slate-800 rounded-lg text-slate-300 
@@ -81,7 +81,7 @@ const Home = () => {
         </a>
 
         <a
-          href="https://linkedin.com/in/yourprofile"
+          href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/"
           target="_blank"
           rel="noopener noreferrer"
           className="p-3 bg-slate-800 rounded-lg text-slate-300 

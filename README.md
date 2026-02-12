@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidya Sai Mounika Jalluri</h1>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340" alt="Coding GIF"/>
-</p>
-
 <h3 align="center">💡 Full Stack Web Developer | MERN Stack | React | Node.js | Firebase</h3>
 
 <p align="center">
@@ -26,7 +22,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, respo
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://github.com/jallurividya">
