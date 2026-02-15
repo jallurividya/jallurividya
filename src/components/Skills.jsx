@@ -33,7 +33,7 @@ const Skills = () => {
           My Skills
         </h2>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-12">
+        <div className="grid grid-cols-2 bg-slate-800 p-8 rounded-2xl shadow-lg md:grid-cols-4 gap-12">
           {skills.map((skill, index) => (
             <div
               key={index}
@@ -44,11 +44,11 @@ const Skills = () => {
               <div
                 className="
                   w-24 h-24 flex items-center justify-center
-                  rounded-full bg-slate-800
-                  text-4xl text-indigo-500
+                  rounded-full bg-indigo-950
+                  text-4xl text-cyan-400
                   shadow-md
                   transition-all duration-500
-                  group-hover:shadow-[0_0_25px_rgba(79,70,229,0.5)]
+                  group-hover:shadow-[0_0_25px_rgba(6,182,212,0.5)]
                   group-hover:scale-105
                 "
               >

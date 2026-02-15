@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
-import { Github, Linkedin } from "lucide-react";
+import { Github, Linkedin, ExternalLink, Briefcase } from "lucide-react";
 
 const roles = [
   "Full Stack Web Developer",
-  "Backend Enthusiast"
+  "Backend Enthusiast",
 ];
 
 const Home = () => {
@@ -42,13 +42,14 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center px-6 text-center"
+      className="min-h-screen flex flex-col items-center justify-center px-6 text-center bg-slate-900"
     >
       {/* Greeting */}
       <p className="text-lg md:text-xl text-slate-300 font-medium mb-4">
         Hi, I’m
       </p>
 
+      {/* Name */}
       <h1 className="text-4xl md:text-6xl font-bold text-indigo-500 mb-6">
         Vidya Sai Mounika Jalluri
       </h1>
@@ -59,33 +60,51 @@ const Home = () => {
         <span className="border-r-2 border-cyan-400 animate-blink ml-1"></span>
       </h2>
 
-      {/* CTA Button */}
+      {/* CTA Button (styled like About section buttons) */}
       <a
         href="#projects"
-        className="inline-block bg-indigo-600 text-white px-8 py-3 rounded-lg font-semibold 
-        transition duration-300 hover:bg-indigo-500"
+        className="flex items-center justify-center gap-2
+             sm:w-auto
+             px-6 py-2.5 rounded-lg
+             bg-indigo-500/20 border border-indigo-500
+             text-indigo-500 font-medium text-sm
+             shadow-md
+             transition-all duration-300
+             hover:bg-indigo-500 hover:text-white hover:-translate-y-1"
       >
+        <Briefcase size={18} />
         View My Work
       </a>
 
+
       {/* Social Icons */}
       <div className="flex justify-center gap-6 mt-10">
+        {/* GitHub */}
         <a
           href="https://github.com/jallurividya"
           target="_blank"
           rel="noopener noreferrer"
-          className="p-3 bg-slate-800 rounded-lg text-slate-300 
-          hover:text-cyan-400 hover:bg-slate-700 transition duration-300"
+          className="
+            w-12 h-12 flex items-center justify-center
+            rounded-full bg-slate-800 text-cyan-400
+            shadow-md transition-all duration-300
+            hover:scale-110 hover:shadow-[0_0_25px_rgba(6,182,212,0.5)]
+          "
         >
           <Github size={22} />
         </a>
 
+        {/* LinkedIn */}
         <a
           href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/"
           target="_blank"
           rel="noopener noreferrer"
-          className="p-3 bg-slate-800 rounded-lg text-slate-300 
-          hover:text-cyan-400 hover:bg-slate-700 transition duration-300"
+          className="
+            w-12 h-12 flex items-center justify-center
+            rounded-full bg-slate-800 text-cyan-400
+            shadow-md transition-all duration-300
+            hover:scale-110 hover:shadow-[0_0_25px_rgba(6,182,212,0.5)]
+          "
         >
           <Linkedin size={22} />
         </a>

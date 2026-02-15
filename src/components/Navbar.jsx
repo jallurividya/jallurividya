@@ -65,7 +65,7 @@ const Navbar = () => {
 
           {/* Resume Button */}
           <a
-            href="/resume.pdf"
+            href='VidyaSaiMounikaJalluriResume.pdf'
             download
             className="flex items-center gap-2 border border-cyan-400 text-cyan-400 px-5 py-2 rounded-lg font-medium 
             transition-all duration-300 hover:bg-cyan-400 hover:text-slate-900"

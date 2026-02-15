@@ -11,14 +11,6 @@ const Projects = () => {
       github: "https://github.com/jallurividya/ai-evaluation",
       live: "https://jallurividya.github.io/ai-evaluation/",
     },
-    {
-      title: "Portfolio Website",
-      description:
-        "A responsive personal portfolio built with React and Tailwind CSS to showcase projects, skills, and experience with smooth animations and a professional design system.",
-      image: "/portfolio.jpg",
-      github: "https://github.com/yourusername/portfolio",
-      live: "https://your-portfolio-live.com",
-    },
   ];
 
   return (

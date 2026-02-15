@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack Web Developer** passionate about building **scalable, responsive, and user-friendly web applications**.  
+I’m a **Full Stack Web Developer** passionate about building **scalable, responsive, and user-friendly web applications** that deliver real value.  
 
-- 🌱 I love solving problems and learning new technologies  
-- 💻 Skilled in **React, Node.js, Express, Firebase, SQL, and JavaScript**  
+- 🌱 I enjoy solving complex problems and continuously learning new technologies  
+- 💻 Skilled in **React, Node.js, Express, Supabase, SQL, and JavaScript**  
 - ⚡ Interested in building projects that make a difference  
 - 📫 Reach me at **jallurividya2002@gmail.com**  
 
@@ -22,69 +22,46 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, respo
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <a href="https://www.linkedin.com/in/vidya-sai-mounika-jalluri-873271355/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/jallurividya">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <a href="https://github.com/jallurividya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
-  <a href="mailto:jallurividya2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jallurividya2002%40gmail.com-red?style=for-the-badge" />
+  <a href="mailto:jallurividya2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="tel:+917675956238" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-7675956238-blue?style=for-the-badge" alt="Phone"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>&nbsp;
-</div>
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="45" alt="Frontend"/>
+</p>
 
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="45"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge" height="28"/>
-</div>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" height="45" alt="Backend"/>
+</p>
 
-### Tools & Others
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-</div>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="45" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge" height="28" alt="Supabase"/>
+</p>
 
----
-
-## 💼 Projects
-
-### [AI Time Tracker](https://jallurividya.github.io/ai-evaluation/)
-A modern AI-powered time tracking app with activity insights, smart categorization, and visual analytics.  
-🔗 [GitHub](https://github.com/jallurividya/ai-evaluation)
-
-### [Portfolio Website](https://jallurividya.github.io/)
-A responsive personal portfolio built with React and Tailwind CSS to showcase skills, projects, and experience.  
-🔗 [GitHub](https://github.com/jallurividya)
-
----
-
-## 📫 Contact Me
-
-- ✉ Email: jallurividya2002@gmail.com  
-- 📞 Phone: +91 7675956238  
-- 📍 Location: Kalidindi, Andhra Pradesh, India  
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode" height="45" alt="Tools"/>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 I love building **projects that combine creativity and functionality**.
-
----
-
