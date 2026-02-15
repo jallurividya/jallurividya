@@ -32,7 +32,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, respo
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="tel:+917675956238" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-7675956238-blue?style=for-the-badge" alt="Phone"/>
+    <img src="https://img.shields.io/badge/ContactMe-blue?style=for-the-badge" alt="Contact"/>
   </a>
 </p>
 
@@ -47,13 +47,12 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, respo
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" height="45" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" alt="Backend"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="45" alt="Databases"/>
-  <img src="https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge" height="28" alt="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" height="45" alt="Databases"/>
 </p>
 
 ### 🛠 Tools
