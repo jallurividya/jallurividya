@@ -32,7 +32,7 @@ I’m a **Full Stack Web Developer** passionate about building **scalable, respo
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="tel:+917675956238" target="_blank">
-    <img src="https://img.shields.io/badge/ContactMe-blue?style=for-the-badge" alt="Contact"/>
+    <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge" alt="Contact"/>
   </a>
 </p>
 
