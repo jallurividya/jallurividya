@@ -48,6 +48,7 @@ const Projects = () => {
                   className="w-full object-contain transition-transform duration-500"
                 />
               </div>
+              
               {/* Buttons */}
               <div className="flex flex-wrap gap-6 mt-6">
 
