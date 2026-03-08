@@ -52,7 +52,6 @@ const Projects = () => {
               {/* Buttons */}
               <div className="flex flex-wrap gap-6 mt-6">
 
-                {/* Live Demo */}
                 {project.live && (
                   <a
                     href={project.live}
